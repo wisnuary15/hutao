@@ -28,21 +28,21 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['628551000185', true],
-['628551000185', 'Zamr', true],
-['628551000185', 'Zamr', true]
+['6282245754509', true],
+['6282245754509', 'Wisnu', true],
+['6282245754509', 'Wisnu', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628551000185'
-global.nomorown = '628551000185'
-global.nomorown1 = '628551000185'
-global.nomorown2 = '628551000185'
-global.nomorwa = '628551000185'
+global.nomorbot = '62895426981502'
+global.nomorown = '6282245754509'
+global.nomorown1 = '6282245754509'
+global.nomorown2 = '6282245754509'
+global.nomorwa = '6282245754509'
 
 
 global.readMore = readMore
-global.author = 'Zamr'
+global.author = 'Wisnu'
 global.namebot = '​𝚮utao 𝚨i'
 global.wm = '© Zamr'
 global.media = 'https://telegra.ph/file/affd8ad8963711de871d4.jpg'
@@ -55,23 +55,23 @@ global.stickpack = '𝚮utao 𝚨i by'
 global.stickauth = `Zamr`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'Zamr'
-global.nameown2 = 'Zamr'
+global.nameown1= 'Wisnu'
+global.nameown2 = 'Wisnu'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://instagram.com/' //instagram
-global.sgh = 'https://github.com/' //github
+global.sig = 'https://instagram.com/wisnuary15' //instagram
+global.sgh = 'https://github.com/wisnuary15' //github
 global.sgc = 'https://t.me/sharingscbot' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/@zamr404' //youtube
+global.snh = 'https://www.youtube.com/wisnu ary swaana' //youtube
 //Donasi/Payment
-global.pdana = '628551000185' // dana
+global.pdana = '6282245754509' // dana
 global.povo = '-'
-global.pgopay = '628551000185' // gopay
+global.pgopay = '6282245754509' // gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '628551000185' // pulsa
-global.ppulsa2 = '628551000185' //pulsa 2
+global.ppulsa = '6282245754509' // pulsa
+global.ppulsa2 = '6282245754509' //pulsa 2
 global.psaweria = 'https://saweria.co/' // saweria
 //mending biarin aja
 global.ListHargaSewa = '├ 5 Hari IDR 4.000\n├ 7 Hari IDR 7.000\n├ 15+5 Hari IDR 19.000\n├ 30 Hari IDR 40.000'

@@ -24,7 +24,7 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '628551000185@s.whatsapp.net'), 'RAIDEN ft Novi', 'https://t.me/sharingscbot', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '6282245754509@s.whatsapp.net'), 'RAIDEN ft Novi', 'https://t.me/sharingscbot', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -65,7 +65,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "628551000185-1625305606@g.us" } : {}) 
+            { remoteJid: "6282245754509-1625305606@g.us" } : {}) 
                        },
             message: { 
                "audioMessage": {
@@ -80,7 +80,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "628551000185-1625305606@g.us" } : {}) 
+            { remoteJid: "6282245754509-1625305606@g.us" } : {}) 
                        },
             message: { 
                "extendedTextMessage": {
@@ -110,7 +110,7 @@ handler.all = async function (m) {
                    global.ftoko = {
        key: {
                    fromMe: false,
-                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "628551000185@s.whatsapp.net" } : {})
+                   participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "6282245754509@s.whatsapp.net" } : {})
                },
                message: {
                    "productMessage": {
@@ -151,7 +151,7 @@ handler.all = async function (m) {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "628551000185-1625305606@g.us",
+                   "groupJid": "6282245754509-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Kawan WH MODS DEV", 
                    "caption": wm, 
@@ -164,7 +164,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "628551000185-1625305606@g.us" } : {}) 
+            { remoteJid: "6282245754509-1625305606@g.us" } : {}) 
                        },
             message: { 
                         "videoMessage": { 
